@@ -1,6 +1,28 @@
 # ORGANIZACIONES DE ASESORAMIENTO JURIDICO Y ASISTENCIA SOCIAL
 
 
+### MYRIA 
+Información y asesoramiento jurídico sobre 
+* procedimientos de ruinificación familiar
+* registro en la comuna
+* centros de detención 
+* retorno y repatriación
+* investigación de matrimonios de conveniencia o asociaciones civiles falsas
+* acceso a la nacionalidad belga y la apatridia
+* presentación de queja a la policía y a los serviciós de inspección social para inmigrantes indocumentados
+* **recuperaciónde del salario impago de trabajadores indocumentados** 
+
+* 0800 14912 (gratuito)
+* Lunes y Jueves: 9:30 - 12:30
+* E-mail: myria@myria.be
+* Address: Myria, Place Victor Horta 40, box 40, 1060 Saint-Gilles (Brussels)
+
+[https://www.myria.be/en](https://www.myria.be/en)
+
+[https://www.myria.be/en/contact-us](https://www.myria.be/en/contact-us)
+
+
+
 ### LEGAL HELPDESK VLUCHTELINGENWER VLAANDEREN
 Información sobre el procedimento de asilo, recepción, **apoyo en caso de detención**
 * 02 205 00 55 (elija 2)
@@ -8,6 +30,17 @@ Información sobre el procedimento de asilo, recepción, **apoyo en caso de dete
 * Lunes y vienres: 9:00 - 12:30
 * Miércoles: 13:30 - 17:00
 * Email: info@vluchtelingenwerk.be
+
+
+### Service Social des Solidarités (SESO) 
+Procedimento, reunificación familiar, ayuda material, vivinda, salud, educación
+
+* 02 533 39 84
+* info@seso.be
+* Lunes a Viernes: 9:00 - 14:30 / 13:30 - 17:00
+* Rue de Parme 28, 1060 Bruselas (Metro Porte de Halle)
+
+[https://www.sesoweb.org/index.php/nl/](https://www.sesoweb.org/index.php/nl/)
 
 
 ### Association pour le Droit des Étrangers (ADDE)
