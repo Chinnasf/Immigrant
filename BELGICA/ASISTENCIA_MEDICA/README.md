@@ -47,7 +47,9 @@ Envíe un email al servicio médico de Fedasil.
 * Tel. 02 213 43 00 (NL)
 * Tel. 02 213 43 25 (FR)
 * medic@fedasil.be
-* FORMULARIO PARA REQUISITORIUM: [https://www.fedasil.be/en/form/webform-11190](https://www.fedasil.be/en/form/webform-11190)
+* FORMULARIO PARA REQUISITORIUM EN WEB: [https://www.fedasil.be/en/form/webform-11190](https://www.fedasil.be/en/form/webform-11190)
+* FORMULARIO PARA REQUISITORIUM EN PDF: [https://medimmigrant.be/IMG/pdf/requisitorium_form_nl.pdf](https://medimmigrant.be/IMG/pdf/requisitorium_form_nl.pdf)
+    * El pdf tiene traducción agregada
 
 Fedasil s=le enviará el Requisitorium a su correo electrónico. Déselo a su médico. Después
 de la visita médica, este formulario será devuelto a Fedasil por el médico, el hospital o el especialista. 
