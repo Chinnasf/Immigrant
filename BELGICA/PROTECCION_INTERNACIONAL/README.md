@@ -1,3 +1,11 @@
+---
+country: Belgium
+city: Brussels
+topic: International Protection, Shelter, and Social Support
+language: es
+license: CC BY 4.0
+last_verified: "2025-07"
+---
 
 # [Vluchtelingenwerk Vlaanderen](https://vluchtelingenwerk.be/): Una organización independiente no gubernamental
 

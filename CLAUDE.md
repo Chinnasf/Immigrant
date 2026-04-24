@@ -26,4 +26,4 @@ Each top-level directory represents a European country:
 
 To add a new country or topic: create a directory and add a `README.md` following the existing format in `BELGICA/ASISTENCIA_MEDICA/README.md` or `BELGICA/ABOGADOS/README.md` as reference.
 
-When editing, verify that phone numbers, addresses, and URLs are accurate — this information directly affects vulnerable people.
+When editing, verify that phone numbers, addresses, and URLs are accurate — this information directly affects vulnerable people. Update the `last_verified` frontmatter field (format: `"YYYY-MM"`) whenever you confirm that information is current. Aim to re-verify each file at least once a year.

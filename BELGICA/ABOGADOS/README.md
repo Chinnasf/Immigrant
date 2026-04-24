@@ -1,3 +1,12 @@
+---
+country: Belgium
+city: Brussels
+topic: Legal Aid and Social Assistance Organizations
+language: es
+license: CC BY 4.0
+last_verified: "2025-07"
+---
+
 # ORGANIZACIONES DE ASESORAMIENTO JURIDICO Y ASISTENCIA SOCIAL
 
 ### MYRIA 

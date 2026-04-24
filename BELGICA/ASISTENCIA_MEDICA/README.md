@@ -1,3 +1,12 @@
+---
+country: Belgium
+city: Brussels
+topic: Medical Assistance
+language: es
+license: CC BY 4.0
+last_verified: "2025-07"
+---
+
 # ASISTENCIA MÉDICA GRATUITA EN BRUSELAS
 
 **Dispensaire Athena**
