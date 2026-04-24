@@ -27,6 +27,7 @@ La información está organizada por país y tema. Cada sección incluye contact
 - [Asistencia Médica Gratuita](BELGICA/ASISTENCIA_MEDICA/README.md)
 - [Organizaciones de Asesoramiento Jurídico y Asistencia Social](BELGICA/ABOGADOS/README.md)
 - [Protección Internacional, Refugio y Apoyo Social](BELGICA/PROTECCION_INTERNACIONAL/README.md)
+- [Apoyo Social — Alimentación, Bienestar, Mujeres, Niñes y Vivienda](BELGICA/SOCIAL/README.md)
 
 ---
 
@@ -53,6 +54,7 @@ Information is organised by country and topic. Each section includes contacts, a
 - [Free Medical Assistance](BELGICA/ASISTENCIA_MEDICA/README.en.md)
 - [Legal Aid and Social Assistance Organizations](BELGICA/ABOGADOS/README.en.md)
 - [International Protection, Shelter, and Social Support](BELGICA/PROTECCION_INTERNACIONAL/README.en.md)
+- [Social Support — Food, Welfare, Women, Children, and Housing](BELGICA/SOCIAL/README.en.md)
 
 ---
 
