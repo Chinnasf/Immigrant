@@ -10,6 +10,10 @@ Este repositorio recopila información práctica para personas que emigran desde
 
 La información está organizada por país y tema. Cada sección incluye contactos, direcciones, horarios y recursos relevantes para personas en situación de vulnerabilidad.
 
+### Literatura e Investigación
+
+- [Literatura e Investigación sobre Migración en Europa](RESEARCH/README.md)
+
 ### Países
 
 | País | Contenido disponible |
@@ -37,6 +41,10 @@ La información está organizada por país y tema. Cada sección incluye contact
 This repository compiles practical information for people migrating from Latin America to Europe. The content is based on first-hand experiences and accounts from friends, and has been verified against official sources.
 
 Information is organised by country and topic. Each section includes contacts, addresses, opening hours, and resources relevant to people in vulnerable situations.
+
+### Research and Literature
+
+- [Research and Literature on Migration in Europe](RESEARCH/README.en.md)
 
 ### Countries
 
