@@ -1,2 +1,59 @@
 # Immigrant
-Este folder contiene información importante a considerar cuando uno toma la decisión de emigrar de un país de LATAM a Europa. El contenido de este repositorio está basado en experiencias propias y relatos de amigues. 
+
+**[Español](#español) | [English](#english)**
+
+---
+
+## Español
+
+Este repositorio recopila información práctica para personas que emigran desde América Latina a Europa. El contenido está basado en experiencias propias y relatos de amigues, y ha sido verificado en fuentes oficiales.
+
+La información está organizada por país y tema. Cada sección incluye contactos, direcciones, horarios y recursos relevantes para personas en situación de vulnerabilidad.
+
+### Países
+
+| País | Contenido disponible |
+|------|----------------------|
+| [Bélgica](BELGICA/) | Asistencia médica, asesoramiento jurídico, protección internacional, refugio, apoyo psicológico |
+| Alemania | *Próximamente* |
+| España | *Próximamente* |
+| Francia | *Próximamente* |
+| Holanda | *Próximamente* |
+| Portugal | *Próximamente* |
+| Reino Unido | *Próximamente* |
+
+### Bélgica — Secciones
+
+- [Asistencia Médica Gratuita](BELGICA/ASISTENCIA_MEDICA/README.md)
+- [Organizaciones de Asesoramiento Jurídico y Asistencia Social](BELGICA/ABOGADOS/README.md)
+- [Protección Internacional, Refugio y Apoyo Social](BELGICA/PROTECCION_INTERNACIONAL/README.md)
+
+---
+
+## English
+
+This repository compiles practical information for people migrating from Latin America to Europe. The content is based on first-hand experiences and accounts from friends, and has been verified against official sources.
+
+Information is organised by country and topic. Each section includes contacts, addresses, opening hours, and resources relevant to people in vulnerable situations.
+
+### Countries
+
+| Country | Available content |
+|---------|-------------------|
+| [Belgium](BELGICA/) | Medical assistance, legal aid, international protection, shelter, psychological support |
+| Germany | *Coming soon* |
+| Spain | *Coming soon* |
+| France | *Coming soon* |
+| Netherlands | *Coming soon* |
+| Portugal | *Coming soon* |
+| United Kingdom | *Coming soon* |
+
+### Belgium — Sections
+
+- [Free Medical Assistance](BELGICA/ASISTENCIA_MEDICA/README.en.md)
+- [Legal Aid and Social Assistance Organizations](BELGICA/ABOGADOS/README.en.md)
+- [International Protection, Shelter, and Social Support](BELGICA/PROTECCION_INTERNACIONAL/README.en.md)
+
+---
+
+*License: [CC BY 4.0](LICENSE) — Content may be freely shared and adapted with attribution.*
